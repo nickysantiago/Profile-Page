@@ -1,1 +1,1 @@
-# Project-1
+# Treehouse's Front End Web Development first project
